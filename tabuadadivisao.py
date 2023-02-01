@@ -1,0 +1,15 @@
+numero = int(input("Digite o numero da tabuada: "))
+
+print("{} / {:.0f} = {:.0f}".format(3, numero, 3 / numero))
+print("{} / {:.0f} = {:.0f}".format(6, numero, 6 / numero))
+print("{} / {:.0f} = {:.0f}".format(9, numero, 9 / numero))
+print("{} / {:.0f} = {:.0f}".format(12, numero, 12 / numero))
+print("{} / {:.0f} = {:.0f}".format(15, numero, 15 / numero))
+print("{} / {:.0f} = {:.0f}".format(18, numero, 18 / numero))
+print("{} / {:.0f} = {:.0f}".format(21, numero, 21 / numero))
+print("{} / {:.0f} = {:.0f}".format(24, numero, 24 / numero))
+print("{} / {:.0f} = {:.0f}".format(27, numero, 27 / numero))
+print("{} / {:.0f} = {:.0f}".format(30, numero, 30 / numero))
+
+print("essa é a tabuada da divisão", numero)
+print("=" * 100)
